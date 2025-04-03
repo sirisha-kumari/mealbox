@@ -1,0 +1,12 @@
+<!-- meal-list.component.html -->
+<div class="meal-list">
+    <h2>Meals</h2>
+    <div *ngFor="let meal of meals" class="meal-item">
+      <img [src]="'assets/images/' + meal.imageUrl" [alt]="meal.name" />
+      <h3>{{ meal.name }}</h3>
+      <p>{{ meal.description }}</p>
+      <p>{{ meal.price | currency }}</p>
+      <button (click)="onBookMeal(meal.id)">Book Now</button>
+    </div>
+  </div>
+  

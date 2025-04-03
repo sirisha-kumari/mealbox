@@ -1,0 +1,109 @@
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.csproj.AssemblyReference.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.AssemblyInfoInputs.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.AssemblyInfo.cs
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.csproj.CoreCompileInputs.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.sourcelink.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\appsettings.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.staticwebassets.endpoints.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.exe
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.deps.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.runtimeconfig.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.pdb
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\scopedcss\bundle\MealBoxBackend.styles.css
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.MealBoxBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.MealBoxBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.build.MealBoxBackend.props
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MealBoxBackend.props
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MealBoxBackend.props
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxB.A6349401.Up2Date
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\refint\MealBoxBackend.dll
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.pdb
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.genruntimeconfig.cache
+C:\Users\VEERA SAI UMA\OneDrive\Desktop\project final\meal box1\MealBoxBackend\obj\Debug\net9.0\ref\MealBoxBackend.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\appsettings.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.staticwebassets.endpoints.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.exe
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.deps.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.runtimeconfig.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MealBoxBackend.pdb
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\MySqlConnector.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.csproj.AssemblyReference.cache
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.AssemblyInfoInputs.cache
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.AssemblyInfo.cs
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.csproj.CoreCompileInputs.cache
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\scopedcss\bundle\MealBoxBackend.styles.css
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.MealBoxBackend.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.MealBoxBackend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.build.MealBoxBackend.props
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MealBoxBackend.props
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MealBoxBackend.props
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxB.A6349401.Up2Date
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\refint\MealBoxBackend.dll
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.pdb
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\MealBoxBackend.genruntimeconfig.cache
+C:\Users\SIRISHA KUMARI\Downloads\satya-123456789-main\satya-123456789-main\MealBoxBackend\obj\Debug\net9.0\ref\MealBoxBackend.dll

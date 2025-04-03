@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "DtWvJQ6u8GnLcAPvoUklZMJV4Xr4qVJmV/yBCVZjDKk=",
+  "Source": "MealBoxBackend",
+  "BasePath": "_content/MealBoxBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

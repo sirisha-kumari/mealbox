@@ -1,0 +1,6 @@
+@MealBoxBackend_HostAddress = http://localhost:5240
+
+GET {{MealBoxBackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,87 @@
+{
+    "meals": [
+      {
+        "id": 1,
+        "name": "Meal Thali",
+        "category": "thali",
+        "price": 199,
+        "description": "Traditional Indian thali with rice, roti, dal, 2 veggies, curd, and dessert",
+        "image": "Images/traditional-food.jpg",
+        "calories": 650,
+        "rating": 4.5,
+        "prepTime": "25 mins",
+        "ingredients": ["Rice", "Roti", "Dal", "Seasonal Vegetables", "Curd", "Dessert"],
+        "isVeg": true
+      },
+      {
+        "id": 2,
+        "name": "Chicken Biryani",
+        "category": "biryani",
+        "price": 249,
+        "description": "Hyderabadi-style dum biryani with raita and mirchi ka salan",
+        "image": "Images/chiken briayani.jpg",
+        "calories": 850,
+        "rating": 4.7,
+        "prepTime": "40 mins",
+        "ingredients": ["Basmati Rice", "Chicken", "Biryani Masala", "Yogurt", "Herbs"],
+        "isVeg": false
+      },
+      {
+        "id": 3,
+        "name": "Paneer Biryani",
+        "category": "biryani",
+        "price": 229,
+        "description": "Flavorful biryani with marinated paneer cubes and aromatic spices",
+        "image": "Images/paneer briyani.jpg",
+        "calories": 720,
+        "rating": 4.4,
+        "prepTime": "35 mins",
+        "ingredients": ["Basmati Rice", "Paneer", "Biryani Masala", "Cashews", "Herbs"],
+        "isVeg": true
+      },
+      {
+        "id": 4,
+        "name": "Sambar Rice",
+        "category": "rice",
+        "price": 149,
+        "description": "South Indian comfort food with tangy sambar, rice, and papad",
+        "image": "Images/sambar rice.jpeg",
+        "calories": 580,
+        "rating": 4.2,
+        "prepTime": "20 mins",
+        "ingredients": ["Rice", "Sambar", "Vegetables", "Tamarind", "Papad"],
+        "isVeg": true
+      },
+      {
+        "id": 5,
+        "name": "Curd Rice",
+        "category": "rice",
+        "price": 129,
+        "description": "Cooling curd rice with tempered mustard seeds and curry leaves",
+        "image": "Images/curd rice.avif",
+        "calories": 450,
+        "rating": 4.0,
+        "prepTime": "15 mins",
+        "ingredients": ["Rice", "Yogurt", "Mustard Seeds", "Curry Leaves", "Ginger"],
+        "isVeg": true
+      },
+      {
+        "id": 6,
+        "name": "Veg Fried Rice",
+        "category": "rice",
+        "price": 179,
+        "description": "Stir-fried rice with mixed vegetables and soy sauce",
+        "image": "Images/veg fried rice.jpeg",
+        "calories": 520,
+        "rating": 4.1,
+        "prepTime": "20 mins",
+        "ingredients": ["Rice", "Mixed Vegetables", "Soy Sauce", "Spring Onions", "Garlic"],
+        "isVeg": true
+      }
+    ],
+    "categories": [
+      {"id": "thali", "name": "Thali"},
+      {"id": "biryani", "name": "Biryani"},
+      {"id": "rice", "name": "Rice Meals"}
+    ]
+  }
